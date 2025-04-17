@@ -1,7 +1,7 @@
 # Serene Mind 🧠✨
 
-**Serene Mind** is a beautifully crafted web application built with [V0.dev](https://v0.dev), designed to 
-provide a smooth, minimalistic, and modern user experience. The project was auto-generated and customized using AI + human collaboration.
+**Serene Mind** is a beautifully crafted web application designed to 
+provide a smooth, minimalistic, and modern user experience. 
 
 ---
 
@@ -21,7 +21,7 @@ provide a smooth, minimalistic, and modern user experience. The project was auto
 
 ## 🛠️ Tech Stack
 
-- **Framework**: Next.js (via V0)
+- **Framework**: Next.js and React.js
 - **Styling**: Tailwind CSS
 - **Deployment**: Vercel
 - **Version Control**: Git + GitHub
@@ -30,7 +30,7 @@ provide a smooth, minimalistic, and modern user experience. The project was auto
 
 ## 🧪 How to Run Locally
 
-```bash
+bash
 git clone https://github.com/yash565-git0/serene-mind.git
 cd serene-mind
 npm install
